@@ -41,4 +41,6 @@ Start **How To Fish** normally.
 
 BepInEx should automatically load `YWUperfmod.dll`.
 
+Press F9 to open
+
 **Done!**
